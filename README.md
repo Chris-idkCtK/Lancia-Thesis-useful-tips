@@ -35,3 +35,7 @@
    <p><a href="https://www.youtube.com/watch?v=MJxHyoAySZI">YouTube (link)</a></p>
 6. Back seat removal
    <p><a href="https://www.youtube.com/watch?v=iu7oESQfzos">YouTube (link)</a></p>
+# Tips
+1. External audio source
+   <p>You may get tired of listening to the radio, or burning CDs, and want to use your phone as a audio source.</p>
+   <p>While a FM transmitter might be a good idea, it doesn't provide great sound quality, and often needs changing the frequency. So I recommend to use a cassette adapter to get the best sound quality, while not having to tinker with electronics or buy a sophisticated CD Changer emulation system</p>
