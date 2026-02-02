@@ -2,6 +2,7 @@
 <p>The following document contains information about the Lancia Thesis included but not limited to</p>
 <p>Repair Manuals, Guides, Tips</p>
 <p>!USE THE FOLLOWING INFORMATION AT YOUR OWN RISK! Any damages caused by the following are not to be considered the author's or the guide's fault</p>
+
 # Repair manuals
 1. Official stellantis web-based elearn manual
    <p><a href="https://aftersales.fiat.com/elearnsections/SelectModel.aspx?languageID=2&markID=3">Click me!</a><p>
