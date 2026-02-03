@@ -1,5 +1,5 @@
 # Lancia Thesis useful tips
-[![Ελληνικά]([https://img.shields.io/badge/lang-en-red.svg](https://img.shields.io/badge/Available%20in-%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC-red.svg))](https://github.com/Chris-idkCtK/Lancia-Thesis-useful-tips/blob/main/README.gr.md)
+[![gr]([https://img.shields.io/badge/lang-en-red.svg](https://img.shields.io/badge/Available%20in-%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC-red.svg))](https://github.com/Chris-idkCtK/Lancia-Thesis-useful-tips/blob/main/README.gr.md)
 <p>The following document contains information about the Lancia Thesis included but not limited to:</p>
 <p>Repair Manuals, Guides, Tips</p>
 <p>!USE THE FOLLOWING INFORMATION AT YOUR OWN RISK! Any damages caused by the following are not to be considered the author's or the guide's fault</p>
