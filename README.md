@@ -1,5 +1,6 @@
 # Lancia Thesis useful tips
-<p>The following document contains information about the Lancia Thesis included but not limited to</p>
+[![Ελληνικά]([https://img.shields.io/badge/lang-en-red.svg](https://img.shields.io/badge/Available%20in-%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC-red.svg))](https://github.com/Chris-idkCtK/Lancia-Thesis-useful-tips/blob/main/README.gr.md)
+<p>The following document contains information about the Lancia Thesis included but not limited to:</p>
 <p>Repair Manuals, Guides, Tips</p>
 <p>!USE THE FOLLOWING INFORMATION AT YOUR OWN RISK! Any damages caused by the following are not to be considered the author's or the guide's fault</p>
 
@@ -17,13 +18,13 @@
 1. Date bug workaround
    <p>Your Thesis' time if off and you can't change it manually because of the GPS? Just remove the GPS!</p>
    <p>In the passenger footwell (in right hand drive countries), remove the trim towards the gear shift, and proceed to remove the gray plug, and now you can set the time!</p>
-2. door makes a pop sound when closing
-   <p>when you go to close the door, does it make a weird pop sound? Just screw the door guide!<p>
-   <p>using the car's provided tools (located in the spare tire), screw the door guide's screw</p>
+2. Door makes a pop sound when closing
+   <p>When you go to close the door, does it make a weird pop sound? Just screw the door guide!<p>
+   <p>Using the car's provided tools (located in the spare tire), screw the door guide's screw</p>
 3. EOL flashing on dash after replacing NIT screen (the display with controls)
    <p>There are two methods to follow so choose accordingly</p>
-   <p>1 get the original board located behind the connector's metal casing into the new one</p>
-   <p>2 perform a PROXY ALIGNMENT with an OBDII scanner</p>
+   <p>1. Get the original board located behind the connector's metal casing into the new one</p>
+   <p>2. Perform a PROXY ALIGNMENT with an OBDII scanner</p>
 4. External audio source
    <p>You may get tired of listening to the radio, or burning CDs, and want to use your phone as a audio source.</p>
    <p>While a FM transmitter might be a good idea, it doesn't provide great sound quality, and often needs changing the frequency. So I recommend to use a cassette adapter to get the best sound quality, while not having to tinker with electronics or buy a sophisticated CD Changer emulation system</p>
