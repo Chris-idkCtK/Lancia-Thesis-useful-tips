@@ -7,7 +7,8 @@
 # Repair manuals
 1. Official stellantis web-based elearn manual
    <p><a href="https://aftersales.fiat.com/elearnsections/SelectModel.aspx?languageID=2&markID=3">Click me!</a><p>
-   <p>Reccomended because it's the most up to date, accurate repair manual, and includes features that the others don't.</p>
+   <p>Reccomended because it's the most up to date, accurate repair manual, and includes features that the others don't, but some schematics might not retain their aspect ratio.</p>
+   <p>WARNING! This site says it's unavailable, so it might not work</p>
 2. Elearn ISO
    <p><a href="https://en.lanciaclub.net/manuals.php?ddlb_model=14&kols=2">Click me! WARNING: I DON'T TAKE RESPONSIBILITY FOR ANY ADVERSE EFFECTS THIS DOWNLOAD MIGHT PRODUCE, YOU HAVE BEEN WARNED!</a></p>
    <p>Best repair manual for offline use, that is somewhat accurate</p>
